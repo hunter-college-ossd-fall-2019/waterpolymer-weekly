@@ -19,13 +19,13 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)    | OpenStreetMap Edit    |   Added Exits and missing relational data to related exits and entrances    |
-|  3   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)   |  OpenStreetMap Edit   |  Added multiple Citi Bike rental locations  |
-|  3   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)   |  OpenStreetMap Edit  |   Added bus stop locations   |
-|  3   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)   |  OpenStreetMap Edit | Updated store tag |
-|  3   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)   |  OpenStreetMap Edit | Added entrances and exits to local area |
-|  4   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)   |  OpenStreetMap Edit | Added more bus stop locations |
-|  4   | [link](https://www.openstreetmap.org/user/waterpolymer/history#map=10/40.7730/-73.9781)   |  OpenStreetMap Edit | Added even more bus stop locations and updated shelter options for bus stops |
+|  3   | [link](https://www.openstreetmap.org/changeset/74403635#map=19/40.77301/-73.98356)    | OpenStreetMap Edit    |   Added Exits and missing relational data to related exits and entrances    |
+|  3   | [link](https://www.openstreetmap.org/changeset/74403878#map=19/40.77473/-73.98662)   |  OpenStreetMap Edit   |  Added multiple Citi Bike rental locations  |
+|  3   | [link](https://www.openstreetmap.org/changeset/74410054#map=17/40.77462/-73.98200)   |  OpenStreetMap Edit  |   Added bus stop locations   |
+|  3   | [link](https://www.openstreetmap.org/changeset/74410138#map=19/40.77714/-73.98296)   |  OpenStreetMap Edit | Updated store tag |
+|  3   | [link](https://www.openstreetmap.org/changeset/74410332#map=18/40.77321/-73.98530)   |  OpenStreetMap Edit | Added entrances and exits to local area |
+|  4   | [link](https://www.openstreetmap.org/changeset/74731605#map=19/40.76896/-73.96960)   |  OpenStreetMap Edit | Added more bus stop locations |
+|  4   | [link](https://www.openstreetmap.org/changeset/74731714#map=17/40.77188/-73.97718)   |  OpenStreetMap Edit | Added even more bus stop locations and updated shelter options for bus stops |
 |  4   | [link](https://github.com/hunter-college-ossd-fall-2019/HubertYe-weekly/pull/3)  |  Blog Edit | Fixed grammatical errors and flow of fellow blogger's first paragraph |
 |     |    |   |  |
 |     |    |   |  |
