@@ -29,3 +29,5 @@ Replace the first row below with your contribution.
 |  4   | https://github.com/hunter-college-ossd-fall-2019/HubertYe-weekly/pull/3  |  Blog edit | Fixed grammatical errors and flow of fellow blogger's first paragraph |
 |  11   |  https://en.wikipedia.org/w/index.php?title=Games_Done_Quick&oldid=926097184  |  Wikipedia page edit | Improve GDQ's description of donation incentives |
 |  11   |  https://en.wikipedia.org/w/index.php?title=Another_Eden&oldid=926095789  | Wikipedia page edit  | Clarified Chronos stone usage and added minor details to plot |
+|  12   |  https://en.wikipedia.org/w/index.php?title=The_Binding_of_Isaac_(video_game)&oldid=927211177  | Wikipedia page edit  |  Added reason for Isaac fleeing  |
+|  12   |  https://en.wikipedia.org/w/index.php?title=The_Legend_of_Zelda:_Ocarina_of_Time&oldid=927212282 | Wikipedia page edit | Added to description of master quest changes | 
