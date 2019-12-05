@@ -31,3 +31,4 @@ Replace the first row below with your contribution.
 |  11   |  https://en.wikipedia.org/w/index.php?title=Another_Eden&oldid=926095789  | Wikipedia page edit  | Clarified Chronos stone usage and added minor details to plot |
 |  12   |  https://en.wikipedia.org/w/index.php?title=The_Binding_of_Isaac_(video_game)&oldid=927211177  | Wikipedia page edit  |  Added reason for Isaac fleeing  |
 |  12   |  https://en.wikipedia.org/w/index.php?title=The_Legend_of_Zelda:_Ocarina_of_Time&oldid=927212282 | Wikipedia page edit | Added to description of master quest changes | 
+|  13   | https://github.com/microsoft/vscode/commits/master/README.md?author=waterpolymer | VS code readme clarification | Clarified instances of Code to VS Code |
